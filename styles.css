@@ -167,6 +167,11 @@ section {
   width: 100%;
   border-bottom: 1px solid var(--gray);
 }
+.section-img-general {
+  width: 75%;
+  max-width: 1200px;
+  margin-inline: auto;
+}
 .section-image-right-text-left {
   display: flex;
   flex-direction: row;
